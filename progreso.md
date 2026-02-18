@@ -16,10 +16,10 @@
 
 ## Nivel 3: DevOps específico
 - [x] Ejercicio 11: Script de prueba de servicios                       — COMPLETADO
-- [ ] Ejercicio 12: Script para clonar repositorios de Git              — PENDIENTE
-- [ ] Ejercicio 13: Comparador de archivos de configuración             — PENDIENTE
-- [ ] Ejercicio 14: Generador de contraseñas seguras                    — PENDIENTE
-- [ ] Ejercicio 15: Script que valide conectividad de microservicios    — PENDIENTE
+- [ ] Ejercicio 12: Script para clonar repositorios de Git              — COMPLETADO
+- [ ] Ejercicio 13: Comparador de archivos de configuración             — COMPLETADO
+- [ ] Ejercicio 14: Generador de contraseñas seguras                    — COMPLETADO
+- [ ] Ejercicio 15: Script que valide conectividad de microservicios    — COMPLETADO
 
 ---
 
