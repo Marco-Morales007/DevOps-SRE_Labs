@@ -58,7 +58,7 @@ ERROR lines:
   2025-09-20 13:12:16 ERROR Excepción en módulo auth: IndexError
 
 
-Sertive test (microservices, simulated):
+Service test (microservices, simulated):
 
 OK: nginx se encuentra activo
 FAIL: mysql se encuentra inactivo. Intentando reiniciar... # No tengo instalado mysql en mi maquina virtual jaja 
